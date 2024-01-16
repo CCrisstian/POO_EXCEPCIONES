@@ -1,4 +1,4 @@
-<h1>Excepciones</h1>
+<h1 align="center">Excepciones</h1>
 En Java, las excepciones se dividen en dos categorías principales: excepciones comprobadas (checked exceptions) y excepciones no comprobadas (unchecked exceptions). La diferencia entre ellas radica en cómo el compilador las trata.
 
 <h2>Excepciones Comprobadas (Checked Exceptions):</h2>
